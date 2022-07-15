@@ -1,2 +1,2 @@
 # WebDevelopment
-WebDevelopment course on EdX
+HTML and CSS fundamentals course on EdX
